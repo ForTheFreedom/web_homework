@@ -2,7 +2,6 @@ package com.elephant.model;
 
 /**
  * 和 Order表对应
- * Created by elephant on 16/7/12.
  */
 public class OrderBean {
 	private long orderId;

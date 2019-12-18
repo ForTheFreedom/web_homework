@@ -15,8 +15,6 @@ import java.io.PrintWriter;
 
 /**
  * 把订单写入Order和OrderDetail两个表中
- * <p>
- * Created by elephant on 16/7/12.
  */
 @WebServlet(name = "orderclservlet", urlPatterns = "/orderclservlet")
 public class OrderCLServlet extends HttpServlet {

@@ -35,7 +35,7 @@ public class ShoppingCLServlet extends HttpServlet {
 				mcb.addGoods(goodsId, "1");
 			}
 			if (type.equals("delGoods")) {
-				// 删除一本书
+				// 删除一部电影
 				String goodsId = request.getParameter("goodsId");
 				mcb.removeGoods(goodsId);
 			} else if (type.equals("showDetail")) {

@@ -1,11 +1,5 @@
 <%@ page import="com.elephant.model.GoodsBean" %>
-<%--
-  Created by IntelliJ IDEA.
-  User: elephant
-  Date: 16/7/8
-  Time: 下午10:14
-  To change this template use File | Settings | File Templates.
---%>
+
 <%@ page contentType="text/html;charset=utf-8" language="java" %>
 <%
     // 取出要显示的信息

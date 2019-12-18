@@ -1,13 +1,6 @@
 <%@ page import="com.elephant.model.GoodsBeanBO" %>
 <%@ page import="java.util.ArrayList" %>
 <%@ page import="com.elephant.model.GoodsBean" %>
-<%--
-  Created by IntelliJ IDEA.
-  User: elephant
-  Date: 16/7/8
-  Time: 下午3:47
-  To change this template use File | Settings | File Templates.
---%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%
     int pageNow = 1;

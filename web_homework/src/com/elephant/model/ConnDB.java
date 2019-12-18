@@ -12,7 +12,7 @@ public class ConnDB {
 	public Connection getCon() {
 		try {
 			Class.forName("com.mysql.cj.jdbc.Driver");
-			con = DriverManager.getConnection("jdbc:mysql://localhost:3306/Shoppings?useSSL=true&characterEncoding=utf-8&serverTimezone=UTC", "root", "*******");
+			con = DriverManager.getConnection("jdbc:mysql://localhost:3306/Shoppings?useSSL=true&characterEncoding=utf-8&serverTimezone=UTC", "root", "*****");
 		} catch (Exception e) {
 			e.printStackTrace();
 		}

@@ -1,8 +1,4 @@
 package com.elephant.model;
-
-/**
- * Created by elephant on 16/7/11.
- */
 public class UserBean {
 	private int userId;
 	private String userName;
